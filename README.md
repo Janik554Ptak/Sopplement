@@ -1,0 +1,1 @@
+furda je chory
