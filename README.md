@@ -8,7 +8,7 @@ https://gco.iarc.who.int/media/globocan/factsheets/populations/203-czechia-fact-
 
 https://onemocneni-aktualne.mzcr.cz/covid-19
 
-https://szu.gov.cz/publikace-szu/data/akutni-respiracni-infekce-chripka/?utm_source=chatgpt.com
+https://szu.gov.cz/publikace-szu/data/akutni-respiracni-infekce-chripka
 
 
 
